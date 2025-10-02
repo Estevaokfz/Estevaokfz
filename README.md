@@ -1,22 +1,23 @@
 # 👨‍💻 Olá, eu sou o Estêvão!  
 
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** na Multivix  
-💻 Apaixonado por **tecnologia** e focado em desenvolvimento **Back-end**  
+💻 Apaixonado por **tecnologia**, com foco em desenvolvimento **Back-end**, e em constante aprendizado sobre **Inteligência Artificial** e **Análise de Dados**  
 🌎 Buscando minha primeira oportunidade na área de TI para crescer e contribuir em projetos reais  
 
 ---
 
 ## 🛠️ Tecnologias & Ferramentas  
-- **Linguagens:** C#, Python, Java, JavaScript  
+- **Back-end:** C#, .NET Framework, Node.js  
 - **Banco de Dados:** SQL Server, MySQL, SQLite  
-- **Frameworks:** .NET Framework, Node.js  
-- **Ferramentas:** Git/GitHub, Power BI, Pacote Office  
+- **Front-end básico:** HTML, CSS, JavaScript  
+- **IA & Dados:** Python (Pandas, NumPy, fundamentos de Machine Learning)  
+- **Outros:** Git/GitHub, Power BI, Pacote Office  
 
 ---
 
 ## 🌱 Atualmente estou:  
 - Aprimorando meus conhecimentos em **.NET e C#**  
-- Estudando boas práticas de **banco de dados e APIs**  
+- Estudando fundamentos de **Inteligência Artificial e Análise de Dados** com Python  
 - Construindo novos projetos para meu portfólio  
 
 ---
