@@ -16,7 +16,7 @@
 ---
 
 ## 🌱 Atualmente estou:  
-- Aprimorando meus conhecimentos em **.NET e C#**  
+- Aprimorando meus conhecimentos em **IA e Python**  
 - Estudando fundamentos de **Inteligência Artificial e Análise de Dados** com Python  
 - Construindo novos projetos para meu portfólio  
 
